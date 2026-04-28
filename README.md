@@ -1,4 +1,4 @@
-A simple and interactive notes web application built using HTML, CSS, and JavaScript. This app allows users to create, edit, and delete notes بسهولة with a clean and user-friendly interface.
+A simple and interactive notes web application built using HTML, CSS, and JavaScript. This app allows users to create, edit, and delete notes easily with a clean and user-friendly interface.
 
 Features:
 - Create new notes
